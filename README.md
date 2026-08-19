@@ -15,7 +15,7 @@ pip install pyautogui keyboard
 Run the script:
 
 ```bash
-python hotkey_ordered-screenshots.py
+python hotkey_ordered_screenshots.py
 ```
 
 Default controls:
