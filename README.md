@@ -2,8 +2,6 @@
 
 A lightweight Python tool for taking ordered screenshots using a keyboard shortcut.
 
-It can be used for documentation, process walkthroughs, training materials, guides, etc.
-
 ## Installation
 
 Install the required packages:
@@ -17,7 +15,7 @@ pip install pyautogui keyboard
 Run the script:
 
 ```bash
-python hotkey_screenshot.py
+python hotkey_ordered-screenshots.py
 ```
 
 Default controls:
