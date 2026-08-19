@@ -47,7 +47,7 @@ pyautogui.screenshot(
 
 ## Example Output
 
-The `screenshots` folder is created automatically when the first screenshot is taken:
+The `screenshots` folder is created automatically when the script runs:
 
 ![Example output](example_folder.PNG)
 
